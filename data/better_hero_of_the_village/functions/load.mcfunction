@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Better Hero Of The Village datapack has been reloaded","bold":true,"color":"white"}]
